@@ -158,7 +158,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 **Prashant Tripathi**
-- Email: [your.email@example.com]
+- Email: [prashanttripathi264@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/prashant-kumar-tripathi-79926527a]
 - Portfolio: [https://prashant11555.github.io/My-Portfolio]
 
